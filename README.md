@@ -20,8 +20,8 @@ During my studies and internships, I focused on mastering:
 
 I have hands-on experience building mobile applications such as:
 
-- 📱 To-Do Apps  
-- 🗞️ News Apps  
+- 📱 Tayarko App  
+- 🗞️ Hatly App  
 - 🛍️ E-Commerce Apps
 
 I'm eager to apply my skills in real-world projects and continuously improve.  
